@@ -1,8 +1,12 @@
 ![Imgur](https://i.imgur.com/uGQrpev.png)
 <h2>Hi! Nice To Meet You.</h2>
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yaji1122.yaji1122)
-My name is **Yaji** 
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yaji1122.yaji1122)
+
+<hr style="height:1px;">
+
+My name is **Yaji** 
+<br>
  🔭 Currently working in Taiwan as a Java backend programmer.
 
   🌱 I’m recently learning some java frameworks (Spring boot & 
