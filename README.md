@@ -6,6 +6,9 @@
 <hr style="height:1px;">
 
 My name is **Yaji** 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaji1122&layout=compact)
+
 <br>
  🔭 Currently working in Taiwan as a Java backend programmer.
 
