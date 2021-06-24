@@ -5,10 +5,10 @@ My name is **Yaji**
 
  🔭 Currently working in Taiwan as a Java backend programmer.
 
-  🌱 I’m currently learning some java framework (Spring boot & 
-  Grails), also frontend framework (Angular)
+  🌱 I’m recently learning some java frameworks (Spring boot & 
+  Grails), as well as a frontend framework (Angular)
 
- 👯 I’m looking to collaborate on anything that I capable of.
+ 👯 I’m looking to collaborate on anything that I am capable of.
 
  💬 Ask me about 
 
