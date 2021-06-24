@@ -20,4 +20,4 @@ My name is **Yaji**
  📫  Reach me : 
  <a href="mailto:yajilin1222@gmail.com">![yajilin1222@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/yaji-lin-7550a7205">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
- ⚡ Fun fact: **Jessie** is my babe.
+Fun Fact : Jessie is a spiritual cultivator.
