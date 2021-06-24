@@ -1,16 +1,14 @@
-### Hi there 👋
+![](https://i.imgur.com/0nNImZI.png)
+<h2>Hi! Nice To Meet You.</h2>
 
-<!--
-**yaji1122/yaji1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Yaji**
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working in Taiwan as a Java backend programmer.
+- 🌱 I’m currently learning some java framework (Spring boot & Grails), also frontend framework (Angular)
+- 👯 I’m looking to collaborate on anything that I capable of.
+- 💬 Ask me about 
+- 📫 How to reach me: 
+- 😄 Pronouns: 
+- ⚡ Fun fact: Jessie is my babe.
